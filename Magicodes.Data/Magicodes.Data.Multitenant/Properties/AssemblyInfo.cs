@@ -21,7 +21,7 @@ using System.Runtime.InteropServices;
 // 与程序集关联的信息。
 
 [assembly: AssemblyTitle("Magicodes.Data.Multitenant")]
-[assembly: AssemblyDescription("Magicodes多租户支持")]
+[assembly: AssemblyDescription("Magicodes多租户支持。开源库地址：（https://github.com/xin-lai）")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("湖南心莱信息科技有限公司")]
 [assembly: AssemblyProduct("Magicodes.Data.Multitenant")]
